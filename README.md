@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Albilal Bintang Iskandar</h1>
+<h1 align="center">Hello 👋, I'm Albilal Bintang Iskandar</h1>
 <h3 align="center">Junior Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalll7&label=Profile%20views&color=0e75b6&style=flat" alt="bilalll7" /> </p>
