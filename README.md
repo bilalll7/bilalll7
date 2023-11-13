@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Flutter and Java**
 
-- 👨‍💻 All of my projects are available at [https://bilalll7.github.io](https://bilalll7.github.io)
+- 👨‍💻 All of my projects are available at [https://bilalll7.github.io](https://bilalll7.github.io/alll/)
 
 - 📫 How to reach me **albilalbintang4@gmail.com**
 
