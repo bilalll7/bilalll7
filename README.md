@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **albilalbintang4@gmail.com**
 
-- ⚡ Fun fact **I Think Im Funny :P**
+- ⚡ Fun fact **I Think Im Funnyy :P**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
