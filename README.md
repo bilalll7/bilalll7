@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Albilal Bintang Iskandar</h1>
 <h3 align="center">Junior Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalll7&label=Profile%20views&color=0e75b6&style=flat" alt="bilalll7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalll7&label=Profile%20views&color=0e75b6&style=flat" alt="bilall7" /> </p>
 
 - 🌱 I’m currently learning **Flutter and Spring**
 
