@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalll7&label=Profile%20views&color=0e75b6&style=flat" alt="bilalll7" /> </p>
 
-- 🌱 I’m currently learning **Flutter and Spring**
+- 🌱 I’m currently learning **Python and Java**
 
 - 👨‍💻 All of my projects are available at [https://bilalll7.github.io/](https://bilalll7.github.io/)
 
