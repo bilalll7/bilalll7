@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Albilal Bintang Iskandar</h1>
 <h3 align="center">Web Development Enthusiast</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalll7&label=Profile%20views&color=0e75b6&style=flat" alt="bilalLl7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bilalll7&label=Profile%20views&color=0e75b6&style=flat" alt="bilalll7" /> </p>
 - 🌱 I’m currently learning **Python and Java**
 
 - 👨‍💻 All of my projects are available at [https://bilalll7.github.io/](https://bilalll7.github.io/)
