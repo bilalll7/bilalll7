@@ -6,7 +6,6 @@
 
 - 👨‍💻 All of my projects are available at [https://bilalll7.github.io/](https://bilalll7.github.io/)
 
-- 📫 How to reach me **albilalbintang4@gmail.com**
 
 - ⚡ Fun fact **I Think Im Funnyy :P**
 
